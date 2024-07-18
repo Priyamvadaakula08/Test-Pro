@@ -2,4 +2,4 @@ mylist = ['geeks', 'forgeeks']
 for i in mylist: 
 	mylist.append(i.upper()) 
 print(mylist) 
-print(mylist1)
+print("mylist")
